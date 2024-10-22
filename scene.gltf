@@ -1,0 +1,652 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7832,
+      "max": [
+        0.816540002822876,
+        0.816540002822876,
+        3.7791800498962402
+      ],
+      "min": [
+        -0.816540002822876,
+        -0.816540002822876,
+        2.6666600704193115
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 93984,
+      "componentType": 5126,
+      "count": 7832,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9961863160133362
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 19584,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 187968,
+      "componentType": 5126,
+      "count": 1537,
+      "max": [
+        1.3190399408340454,
+        1.3190399408340454,
+        1.1165399551391602
+      ],
+      "min": [
+        -1.3190399408340454,
+        -1.3190399408340454,
+        -3.2350099086761475
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 206412,
+      "componentType": 5126,
+      "count": 1537,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9541594386100769
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 78336,
+      "componentType": 5125,
+      "count": 9024,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 224856,
+      "componentType": 5126,
+      "count": 1409,
+      "max": [
+        0.5127800107002258,
+        0.5127800107002258,
+        5.7027997970581055
+      ],
+      "min": [
+        -0.5127800107002258,
+        -0.5127800107002258,
+        3.6840600967407227
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 241764,
+      "componentType": 5126,
+      "count": 1409,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 114432,
+      "componentType": 5125,
+      "count": 8256,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 258672,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.2351199984550476,
+        0.23433999717235565,
+        2.8287999629974365
+      ],
+      "min": [
+        -0.23481999337673187,
+        -0.2356099933385849,
+        -2.6928300857543945
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 268272,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        1.0,
+        1.0,
+        0.5148942470550537
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9996501207351685
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 147456,
+      "componentType": 5125,
+      "count": 4608,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 277872,
+      "componentType": 5126,
+      "count": 2561,
+      "max": [
+        1.4343899488449097,
+        1.4343899488449097,
+        2.721060037612915
+      ],
+      "min": [
+        -1.4343899488449097,
+        -1.4343899488449097,
+        -3.3496100902557373
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 308604,
+      "componentType": 5126,
+      "count": 2561,
+      "max": [
+        1.0,
+        1.0,
+        0.975990891456604
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 165888,
+      "componentType": 5125,
+      "count": 15168,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "1catalogue (https://sketchfab.com/1catalogue)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bottle-with-dropper-5a8437f66cb6495fa8a75473823c8d01",
+      "title": "Bottle with dropper"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 226560,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 339336,
+      "byteOffset": 226560,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 565896,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0693571372228666,
+          0.03451536161447236,
+          0.007544626536974629,
+          0.7655135820496757
+        ],
+        "metallicFactor": 0.9011530846169911,
+        "roughnessFactor": 0.11498956260441234
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Material.007",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.751111158131304,
+          0.751111158131304,
+          0.751111158131304,
+          0.017085909093700877
+        ],
+        "metallicFactor": 0.9200210091452928,
+        "roughnessFactor": 0.3162474242396325
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.010",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0042504799091519175,
+          0.0042504799091519175,
+          0.0042504799091519175,
+          1.0
+        ],
+        "roughnessFactor": 0.4294549714094438
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Material.008",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.09085359424352642,
+          0.0440513230860233,
+          0.01926041394472123,
+          0.8912997455716882
+        ]
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.009",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.005572829822086463,
+          0.005572829822086463,
+          0.005572829822086463,
+          1.0
+        ],
+        "metallicFactor": 0.4483228959377457,
+        "roughnessFactor": 0.15901471983711674
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sucker_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "liquid_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "rubber_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "sucker-glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bottle.000_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.6935300000000001,
+        1.0
+      ],
+      "name": "sucker"
+    },
+    {
+      "mesh": 0,
+      "name": "sucker_0"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.20600000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20600000000000002,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.7000000000000001,
+        1.0
+      ],
+      "name": "liquid"
+    },
+    {
+      "mesh": 1,
+      "name": "liquid_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.6935300000000001,
+        1.0
+      ],
+      "name": "rubber"
+    },
+    {
+      "mesh": 2,
+      "name": "rubber_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.0,
+        0.0,
+        -1.53428,
+        0.0,
+        -8.70324,
+        -0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        4.93391,
+        -0.0,
+        0.0,
+        0.29216000000000003,
+        1.36715,
+        0.41649,
+        1.0
+      ],
+      "name": "Lamp.003"
+    },
+    {
+      "name": "Lamp.003"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.6935300000000001,
+        1.0
+      ],
+      "name": "sucker-glass"
+    },
+    {
+      "mesh": 3,
+      "name": "sucker-glass_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.20733000000000001,
+        0.0,
+        0.0,
+        0.0,
+        0.6935300000000001,
+        1.0
+      ],
+      "name": "Bottle.000"
+    },
+    {
+      "mesh": 4,
+      "name": "Bottle.000_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "matrix": [
+        -2.2063300000000003,
+        0.12806,
+        10.43369,
+        0.0,
+        0.6937400000000002,
+        -9.25519,
+        0.26028999999999997,
+        0.0,
+        16.99205,
+        1.3742400000000001,
+        3.57631,
+        0.0,
+        4.32667,
+        0.029140000000000003,
+        1.1802300000000001,
+        1.0
+      ],
+      "name": "Lamp.004"
+    },
+    {
+      "name": "Lamp.004"
+    },
+    {
+      "children": [
+        17
+      ],
+      "matrix": [
+        0.6363400000000001,
+        0.21659000000000003,
+        10.643979999999999,
+        0.0,
+        3.9981,
+        8.369890000000002,
+        -0.40934000000000004,
+        0.0,
+        -15.6866,
+        7.531490000000001,
+        0.78455,
+        0.0,
+        -4.102179999999999,
+        4.87178,
+        1.1802300000000001,
+        1.0
+      ],
+      "name": "Lamp.001"
+    },
+    {
+      "name": "Lamp.001"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
